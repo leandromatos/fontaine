@@ -1,6 +1,6 @@
 {
   "name": "fontaine",
-  "version" "0.0.2",
+  "version": "0.0.2",
   "main": "dist/fontaine.js",
   "authors": [
     "Leandro Matos <leandro@is-uz.com>"
