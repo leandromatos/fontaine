@@ -1,0 +1,21 @@
+{
+  "name": "Fontaine",
+  "main": "dist/fontaine.js",
+  "authors": [
+    "Leandro Matos <leandro@is-uz.com>"
+  ],
+  "description": "Any one package for bower",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.2.1"
+  }
+}
